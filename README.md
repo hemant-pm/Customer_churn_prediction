@@ -37,10 +37,10 @@ The dataset contains 10,000 entries and 14 features, such as:
 
 ### 📈 Accuracy Plot
 
-![Accuracy Plot](Accuracy_plot.jpg)
+![Accuracy Plot](Customer-churn-prediction/Accuracy_plot.jpg)
 
 ---
 
 ### 📉 Loss Plot
 
-![Loss Plot](Loss_curve.jpg)
+![Loss Plot](Customer-churn-prediction/Loss_curve.jpg)
