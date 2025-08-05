@@ -34,3 +34,13 @@ The dataset contains 10,000 entries and 14 features, such as:
 - matplotlib
 - scikit-learn
 - tensorflow / keras
+
+### 📈 Accuracy Plot
+
+![Accuracy Plot](Accuracy_plot.jpg)
+
+---
+
+### 📉 Loss Plot
+
+![Loss Plot](Loss_curve.jpg)
